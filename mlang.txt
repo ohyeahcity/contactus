@@ -25,7 +25,7 @@
       "lang_contactus": "聯絡我們",
       "lang_question": "若您有任何疑問，歡迎與我們聯繫",
       "userName": "姓名",
-      "userEmail": "信箱",
+      "userEmail": "電子郵件",
       "userMessage": "訊息",
       "lang_send": "發送訊息"
    },
