@@ -139,7 +139,7 @@
     <div class="CONTACT">
                 <div class="TITLE">
                     <div class="TITLE_BG">
-                        
+
                     </div>
 
                 </div>
@@ -153,27 +153,27 @@
     <div id="newsletter" class="container">
         <div class="title">
             <a name="contactUs"></a>
-            <h2>聯絡我們</h2>
-            <span class="byline">若您有任何疑問，歡迎與我們聯繫</span>
+            <h2 id="lang_contactus">聯絡我們</h2>
+            <span class="byline" id="lang_question">若您有任何疑問，歡迎與我們聯繫</span>
         </div>
         <div class="row">
             <div class="col-md-6 col-md-offset-3 wow fadeIn padding8p" data-wow-duration="1.5s" data-wow-delay="0.5s">
                 <form onsubmit="return false;">
                     <div class="half">
                         <div class="6u">
-                            <input type="text" class="text" name="name" placeholder="Name" id="userName"/>
+                            <input type="text" class="text" name="姓名" placeholder="Name" id="userName"/>
                         </div>
                         <div class="6u">
-                            <input type="text" class="text" name="email" placeholder="Email" id="userEmail"/>
+                            <input type="text" class="text" name="信箱" placeholder="Email" id="userEmail"/>
                         </div>
                     </div>
                     <div class="half">
                         <div class="12u">
-                            <textarea name="message" placeholder="Message" id="userMessage"></textarea>
+                            <textarea name="message" placeholder="訊息" id="userMessage"></textarea>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="12u"> <a class="button" onClick="sendMessage()">發送訊息</a> </div>
+                        <div class="12u" id="lang_send"> <a class="button" onClick="sendMessage()">發送訊息</a> </div>
                     </div>
                 </form>
             </div>
