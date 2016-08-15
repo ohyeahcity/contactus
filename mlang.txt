@@ -24,9 +24,6 @@
       "lang_naven": "EN - 英文",
       "lang_contactus": "聯絡我們",
       "lang_question": "若您有任何疑問，歡迎與我們聯繫",
-      "userName": "姓名",
-      "userEmail": "電子郵件",
-      "userMessage": "訊息",
       "lang_send": "發送訊息"
    },
    {
@@ -54,9 +51,6 @@
       "lang_naven": "EN - English",
       "lang_contactus": "Contact Us",
       "lang_question": "If you have any questions, please contact us",
-      "userName": "Name",
-      "userEmail": "Email",
-      "userMessage": "Message",
       "lang_send": "Send Message"
    }
 ]
